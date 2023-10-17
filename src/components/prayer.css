@@ -1,0 +1,37 @@
+.card{
+    
+    border-radius: 5%;
+    margin-left: 5px;
+
+}
+.image{
+    border-radius: 5%;
+}
+.container{
+    padding-top: 25px;
+}
+div#demo-simple-select {
+    color: white;
+}
+label#demo-simple-select-label{
+    color: white;
+}
+
+svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiSelect-icon.MuiSelect-iconOutlined.css-hfutr2-MuiSvgIcon-root-MuiSelect-icon {
+    color: white;
+}
+fieldset.MuiOutlinedInput-notchedOutline.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+    border-color: white;
+}
+fieldset.MuiOutlinedInput-notchedOutline.css-1d3z3hw-MuiOutlinedInput-notchedOutline:focus {
+    border-color: white;
+}
+
+
+.div#abId0\.37710937148415824 {
+    margin-left: 20px;
+}
+.MuiStack-root.css-16eciwt-MuiStack-root{
+    display: flex;
+    gap: 30px;
+}
